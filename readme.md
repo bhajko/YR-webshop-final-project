@@ -4,8 +4,14 @@
 Git repo klónozása, majd npm i frontend mappában, és backend mappában is.
 
 ## A csapat
-* Oláh Péter Ciprián - https://github.com/peterciprian
-* Oláh Péter Ciprián - https://github.com/peterciprian
+* Szász Kinga
+* Bőle Zsombor 
+* Oberth Zoltán Zsigmond
+* Oláh Péter Ciprián 
+* Hajkó Balázs
+
+## Az eredeti GIT repo
+https://github.com/peterciprian/CrainCrew_scrum_project
 
 ## A projekt megnevezése
 > __Webáruház__ létrehozása backend és frontend felülettel,  felhasználókezeléssel.
