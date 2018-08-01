@@ -3,6 +3,10 @@
 ## Telepítés
 Git repo klónozása, majd npm i frontend mappában, és backend mappában is.
 
+## A csapat
+* Oláh Péter Ciprián - https://github.com/peterciprian
+* Oláh Péter Ciprián - https://github.com/peterciprian
+
 ## A projekt megnevezése
 > __Webáruház__ létrehozása backend és frontend felülettel,  felhasználókezeléssel.
 
